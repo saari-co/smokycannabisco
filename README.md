@@ -30,7 +30,7 @@ Details: [docs/cms-access.md](docs/cms-access.md), [AGENTS.md](AGENTS.md).
 
 ## Run locally
 
-Node from `.nvmrc` (≥ 22.14):
+Node from `.nvmrc` (≥ 24.15):
 
 ```sh
 npm ci

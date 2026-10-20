@@ -6,7 +6,7 @@
   "description": "smokycannabisco.com: Astro + EmDash intercept site that clarifies GSCC vs Smoky Mountain CBD and routes to the store",
   "license": "MIT",
   "engines": {
-    "node": ">=22.22.2 <23"
+    "node": ">=24.15.0 <25"
   },
   "emdash": {
     "seed": "seed/seed.json"
